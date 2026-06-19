@@ -745,5 +745,12 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "sprl_dataset": {
+    "file_name": "../training_data/sprl_training.jsonl",
+    "columns": {
+      "prompt": "prompt",
+      "response": "response"
+    }
   }
 }
